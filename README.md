@@ -1,1 +1,6 @@
 # Data-Driven-Weather-Prediction
+
+This project is at the forefront of advancing weather prediction models through a data-driven approach. By focusing on the modification of the existing FourCastNet framework and the exploration of novel predictive models, our initiative aims to tackle the complexities of weather forecasting. The core objective is to leverage cutting-edge machine learning and deep learning techniques to enhance the accuracy and reliability of weather predictions. This endeavor not only contributes to the scientific community's understanding of atmospheric dynamics but also offers practical solutions to real-world weather forecasting challenges.
+
+Our methodology encompasses a rigorous process of experimenting with and refining the FourCastNet model, alongside developing and testing new models that could potentially set new benchmarks in the field. By systematically analyzing vast datasets of atmospheric conditions, our work is grounded in the belief that a data-driven approach can uncover new patterns and improve forecast precision. The modifications to FourCastNet are focused on optimizing its architecture to better capture the intricacies of weather systems, while our novel models are designed from the ground up to introduce innovative forecasting methods.
+
